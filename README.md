@@ -128,3 +128,4 @@ The code of this repository was implemented by [Vassilis Choutas](mailto:vassili
 For questions, please contact [smplx@tue.mpg.de](mailto:smplx@tue.mpg.de). 
 
 For commercial licensing (and all related questions for business applications), please contact [ps-licensing@tue.mpg.de](mailto:ps-licensing@tue.mpg.de).
+# Video2Motion
